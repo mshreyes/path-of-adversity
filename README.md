@@ -96,7 +96,7 @@ python3 path_of_adversity.py
 ### Running with Official AOP-Wiki XML Data
 
 1. Download the latest XML data snapshot from [AOP-Wiki Downloads](https://aopwiki.org/downloads).
-2. Extract the archive to obtain `aop-wiki.xml` (or use the Oct 2026 version provided in this repository).
+2. Extract the archive to obtain `aop-wiki.xml`.
 3. Place `aop-wiki.xml` in the project root directory, or specify its file path when running:
 
 ```bash
