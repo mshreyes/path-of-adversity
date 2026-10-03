@@ -26,10 +26,6 @@
   * Navigate with `[N]`ext, `[P]`revious, `[J]`ump to page, or return with `[B]`ack.
 
 
-* **Universal Exit (`[Q]`)**:
-  * Quit to menu or cleanly exit the terminal session at any decision checkpoint, round prompt, or viewer screen.
-
-
 * **Arcade Terminal Interface**:
   * ANSI color-coded layouts, live life counters (`♥♥♥`), dynamic combo multipliers, and post-session rank evaluations based on OECD AOP developer benchmarks.
 
