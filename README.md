@@ -38,20 +38,6 @@
   * Built exclusively on Python standard libraries (`xml.etree.ElementTree`, `random`, `sys`, `os`).
 
 
-
----
-
-## Project Structure
-
-```text
-path-of-adversity/
-├── README.md
-├── LICENSE
-├── aop-wiki.xml            # AOP-Wiki full XML data dump
-└── path_of_adversity.py    # Game executable
-
-```
-
 ---
 
 ## Getting Started
