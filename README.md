@@ -8,36 +8,34 @@
 ## Features
 
 * **Game 1: Stressor Sleuth**:
-* Receive an investigative dossier featuring a Molecular Initiating Event (MIE), Adverse Outcome (AO), compound category, and chemical synonyms.
-* Deduce the causative chemical stressor from a randomized multi-choice lineup.
+  * Receive an investigative dossier featuring a Molecular Initiating Event (MIE), Adverse Outcome (AO), compound category, and chemical synonyms.
+  * Deduce the causative chemical stressor from a randomized multi-choice lineup.
 
 
 * **Game 2: Cascade Scramble**:
-* Reconstruct randomized causal pathway cascades from initial molecular trigger down to organism/population-level effects.
-* **Mechanistic Challenge**: Biological organization levels (`[MOLECULAR]`, `[CELLULAR]`, `[TISSUE]`, `[ORGANISM]`) remain hidden during puzzle solving and are only unveiled as an educational debrief if a sequence fails.
+  * Reconstruct randomized causal pathway cascades from initial molecular trigger down to organism/population-level effects.
+  * **Mechanistic Challenge**: Biological organization levels (`[MOLECULAR]`, `[CELLULAR]`, `[TISSUE]`, `[ORGANISM]`) remain hidden during puzzle solving and are only unveiled as an educational debrief if a sequence fails.
 
 
 * **Interactive XML Database Explorer**:
-* Full pagination viewer across all parsed database entities:
-* **Chemical Stressors** (Names, CASRN, DSSTox IDs, Synonyms)
-* **Key Events (KE)** (Titles, Organizational Levels)
-* **Adverse Outcome Pathways (AOP)** (Titles, Short Names)
-* **Key Event Relationships (KER)** (Upstream/Downstream links, Adjacency)
-
-
-* Navigate with `[N]`ext, `[P]`revious, `[J]`ump to page, or return with `[B]`ack.
+  * Full pagination viewer across all parsed database entities:
+  * **Chemical Stressors** (Names, CASRN, DSSTox IDs, Synonyms)
+  * **Key Events (KE)** (Titles, Organizational Levels)
+  * **Adverse Outcome Pathways (AOP)** (Titles, Short Names)
+  * **Key Event Relationships (KER)** (Upstream/Downstream links, Adjacency)
+  * Navigate with `[N]`ext, `[P]`revious, `[J]`ump to page, or return with `[B]`ack.
 
 
 * **Universal Exit (`[Q]`)**:
-* Quit to menu or cleanly exit the terminal session at any decision checkpoint, round prompt, or viewer screen.
+  * Quit to menu or cleanly exit the terminal session at any decision checkpoint, round prompt, or viewer screen.
 
 
 * **Arcade Terminal Interface**:
-* ANSI color-coded layouts, live life counters (`♥♥♥`), dynamic combo multipliers, and post-session rank evaluations based on OECD AOP developer benchmarks.
+  * ANSI color-coded layouts, live life counters (`♥♥♥`), dynamic combo multipliers, and post-session rank evaluations based on OECD AOP developer benchmarks.
 
 
 * **Zero External Dependencies**:
-* Built exclusively on Python standard libraries (`xml.etree.ElementTree`, `random`, `sys`, `os`).
+  * Built exclusively on Python standard libraries (`xml.etree.ElementTree`, `random`, `sys`, `os`).
 
 
 
